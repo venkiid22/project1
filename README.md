@@ -75,6 +75,22 @@ I'm a **DevOps Engineer** with over **6 years** of hands-on experience across **
 
 ---
 
+## 📜 Certifications
+
+<p>
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-administrator/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate%20(AZ--104)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Administrator Associate" />
+  </a>
+  <a href="https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/" target="_blank">
+    <img src="https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator%20(CKA)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator" />
+  </a>
+  <a href="https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/" target="_blank">
+    <img src="https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Application%20Developer%20(CKAD)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Application Developer" />
+  </a>
+</p>
+
+---
+
 ## 🔗 Connect with Me
 
 <p>
@@ -115,3 +131,4 @@ I'm a **DevOps Engineer** with over **6 years** of hands-on experience across **
 </p>
 
 > Building reliable, automated, and scalable systems — one pipeline at a time. ⚙️
+
